@@ -1,0 +1,17 @@
+Nombre: Switch Catalyst 9200L 48 Puertos
+Marca: Cisco
+Precio: 4500
+Categoria: Networking
+Descripcion: El Cisco Catalyst 9200L proporciona seguridad de nivel empresarial, resistencia y gestión simplificada. Cuenta con 48 puertos PoE+ y 4 uplinks de 1G SFP fijos. Capacidad de switching de 104 Gbps. Soporta Layer 2 y Layer 3 Lite. Ideal para sucursales y campus de tamaño medio.
+---
+Nombre: Servidor PowerEdge R750
+Marca: Dell
+Precio: 12500
+Categoria: Servidores
+Descripcion: Servidor en rack de 2U de alto rendimiento. Equipado con procesadores Intel Xeon Gold 6330. Soporta hasta 128GB de RAM DDR4 y almacenamiento híbrido con 2 SSDs de 480GB. Fuente de poder redundante. Optimizado para cargas de trabajo de IA y bases de datos.
+---
+Nombre: Firewall FortiGate 60F
+Marca: Fortinet
+Precio: 950
+Categoria: Seguridad
+Descripcion: Dispositivo de seguridad para redes SD-WAN. Incluye protección contra amenazas avanzada impulsada por IA. Puertos GE RJ45. Rendimiento de inspección SSL de 700 Mbps. Ideal para pequeñas empresas y bordes de red.
